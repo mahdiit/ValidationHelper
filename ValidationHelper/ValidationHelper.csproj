@@ -15,4 +15,8 @@
     <Content Include="Helper.js" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="EasyConsole" Version="1.1.0" />
+  </ItemGroup>
+
 </Project>
